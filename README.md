@@ -15,11 +15,6 @@
 </br>
 [![flask](https://img.shields.io/badge/flask-F7DF1E?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 
-## Find me at:
-
-[![blog](https://img.shields.io/badge/blog-i_love_programing-FF9700?style=for-the-badge&logo=blogger&logoColor=FF8300&labelColor=101010)](iloveprograming1.blogspot.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-juan_david_marin-398E93?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](www.linkedin.com/in/juan-david-marín-velasquez-911b16230)
-
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/EMAIL-kevyn-pineda-36DD15?style=for-the-badge&logo=gmail&logoColor=FFF700&labelColor=101010)](pinedamontenegro1234@gmail.com)
