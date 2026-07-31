@@ -13,7 +13,7 @@
 
 ## 🧭 Sobre mí
 
-Desarrollador backend con más de 2 años de experiencia diseñando, optimizando e integrando soluciones sobre plataformas empresariales multi-tenant. Me enfoco en **rendimiento de bases de datos**, **APIs robustas** y **automatización de integraciones** entre sistemas.
+Desarrollador backend con más de 4 años de experiencia diseñando, optimizando e integrando soluciones sobre plataformas empresariales multi-tenant. Me enfoco en **rendimiento de bases de datos**, **APIs robustas** y **automatización de integraciones** entre sistemas.
 
 - 🔭 Actualmente trabajando en **CW/Celuweb 2.0 DSD**, una plataforma B2B de automatización de fuerza de ventas usada por empresas de distribución y manufactura en Colombia.
 - 🛠️ Construyendo un **servidor MCP propio** (Python + FastMCP) que conecta modelos de IA con documentación técnica (Azure DevOps Wiki) y bases de datos SQL Server de solo lectura.
