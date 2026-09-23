@@ -85,11 +85,11 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 
 ---
 
-## 📚 Formación continua (+100 horas cursadas en 2026)
+## 📚 Formación continua (+125 horas cursadas en 2026)
 
 **Backend, arquitectura y buenas prácticas**
 
-`.NET Backend (Core, SQL Server, JWT)` · `Principios SOLID y Clean Code` · `Patrones de Diseño en C#` · `API REST con .NET + Swagger + SQL Server` · `ASP.NET Core Web API` · `Curso de C# .NET Avanzado` · `Curso de C#` · `POO con C#`
+`.NET Backend (Core, SQL Server, JWT)` · `Principios SOLID y Clean Code` · `Patrones de Diseño en C#` · `ASP.NET Core y Clean Architecture con DDD` · `API REST con .NET + Swagger + SQL Server` · `ASP.NET Core Web API` · `Curso de C# .NET Avanzado` · `Curso de C#` · `POO con C#`
 
 **Testing y calidad de software**
 
