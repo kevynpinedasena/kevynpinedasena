@@ -22,7 +22,7 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 - ☕ Desarrollando APIs REST con Spring Boot (Java) e Hibernate (ORM), complementando los módulos construidos en .NET Core.
 - 🏗️ Aplicando principios SOLID, Clean Code, patrones de diseño y arquitecturas monolítica / microservicios / hexagonal según el caso.
 - 🔄 Integrando sistemas ERP (Siigo) mediante Python y Apache Airflow.
-- 🌱 Aprendiendo y reforzando constantemente: .NET Core, PostgreSQL, testing (TDD, xUnit) y arquitecturas backend modernas.
+- 🌱 Aprendiendo y reforzando constantemente: .NET Core, PostgreSQL, testing (TDD, xUnit), Docker y arquitecturas backend modernas.
 - 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información — SENA, Armenia.
 
 ---
@@ -85,11 +85,15 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 
 ---
 
-## 📚 Formación continua (+125 horas cursadas en 2026)
+## 📚 Formación continua (+128 horas cursadas en 2026)
 
 **Backend, arquitectura y buenas prácticas**
 
 `.NET Backend (Core, SQL Server, JWT)` · `Principios SOLID y Clean Code` · `Patrones de Diseño en C#` · `ASP.NET Core y Clean Architecture con DDD` · `API REST con .NET + Swagger + SQL Server` · `ASP.NET Core Web API` · `Curso de C# .NET Avanzado` · `Curso de C#` · `POO con C#`
+
+**DevOps y contenedores**
+
+`Docker for .NET Developer`
 
 **Testing y calidad de software**
 
