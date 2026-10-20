@@ -20,7 +20,8 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 - 🛠️ Construyendo un **servidor MCP propio** (Python + FastMCP) que conecta modelos de IA con documentación técnica (Azure DevOps Wiki) y bases de datos SQL Server de solo lectura.
 - 📊 Enfocado en optimización de consultas SQL Server: CTEs, tablas temporales indexadas, índices cubrientes y filtros sargables.
 - ☕ Desarrollando APIs REST con Spring Boot (Java) e Hibernate (ORM), complementando los módulos construidos en .NET Core.
-- 🏗️ Aplicando principios SOLID, Clean Code, Clean Architecture, DDD y CQRS, patrones de diseño y arquitecturas monolítica / microservicios / hexagonal según el caso.
+- 🏗️ Aplicando principios SOLID, Clean Code, Clean Architecture, DDD y CQRS, patrones de diseño y arquitecturas monolítica / microservicios / hexagonal / distribuidas (.NET Aspire) según el caso.
+- 🤖 Explorando IA generativa (GenAI) en .NET y desarrollo asistido por IA.
 - 🔄 Integrando sistemas ERP (Siigo) mediante Python y Apache Airflow.
 - 🌱 Aprendiendo y reforzando constantemente: .NET Core, PostgreSQL, testing (TDD, xUnit) y arquitecturas backend modernas.
 - 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información — SENA, Armenia.
@@ -46,6 +47,7 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 ![Clean Architecture](https://img.shields.io/badge/Arquitectura-Clean-4B5563?style=flat-square)
 ![DDD](https://img.shields.io/badge/Dise%C3%B1o-DDD-4B5563?style=flat-square)
 ![CQRS](https://img.shields.io/badge/Patr%C3%B3n-CQRS-4B5563?style=flat-square)
+![.NET Aspire](https://img.shields.io/badge/Distribuidas-.NET%20Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SOLID](https://img.shields.io/badge/Principios-SOLID-4B5563?style=flat-square)
 
 **Bases de datos**
@@ -89,11 +91,11 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 
 ---
 
-## 📚 Formación continua (+165 horas cursadas en 2026)
+## 📚 Formación continua (+170 horas cursadas en 2026)
 
 **Backend, arquitectura y buenas prácticas**
 
-`.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture` · `.NET Backend (Core, SQL Server, JWT)` · `Principios SOLID y Clean Code` · `Patrones de Diseño en C#` · `ASP.NET Core y Clean Architecture con DDD` · `API REST con .NET + Swagger + SQL Server` · `ASP.NET Core Web API` · `Curso de C# .NET Avanzado` · `Curso de C#` · `POO con C#`
+`.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture` · `.NET Aspire and GenAI: Distributed Architectures` · `.NET Backend (Core, SQL Server, JWT)` · `Principios SOLID y Clean Code` · `Patrones de Diseño en C#` · `ASP.NET Core y Clean Architecture con DDD` · `API REST con .NET + Swagger + SQL Server` · `ASP.NET Core Web API` · `Curso de C# .NET Avanzado` · `Curso de C#` · `POO con C#`
 
 **DevOps y contenedores**
 
