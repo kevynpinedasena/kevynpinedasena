@@ -14,16 +14,15 @@
 
 ## 🧭 Sobre mí
 
-Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, optimizando e integrando soluciones sobre plataformas empresariales multi-tenant. Me enfoco en **rendimiento de bases de datos**, **APIs robustas** y **automatización de integraciones** entre sistemas, trabajando tanto en **.NET** como en **Java (Spring Boot)** bajo arquitecturas monolíticas, de microservicios y hexagonal.
+Ingeniero de Desarrollo backend con **4 años de experiencia** construyendo e integrando soluciones sobre plataformas empresariales multi-tenant. **Nivel avanzado en el desarrollo de APIs RESTful con .NET** (ASP.NET Core, C#, JWT, Swagger/OpenAPI), con experiencia complementaria en **Java (Spring Boot + Hibernate)**. Me especializo en **rendimiento de bases de datos**, **arquitectura de software** (monolítica, microservicios, hexagonal y distribuida) e **integración de sistemas** mediante APIs y procesos ETL.
 
-- 🔭 Actualmente trabajando en **CW/Celuweb 2.0 DSD**, una plataforma B2B de automatización de fuerza de ventas usada por empresas de distribución y manufactura en Colombia.
-- 🛠️ Construyendo un **servidor MCP propio** (Python + FastMCP) que conecta modelos de IA con documentación técnica (Azure DevOps Wiki) y bases de datos SQL Server de solo lectura.
-- 📊 Enfocado en optimización de consultas SQL Server: CTEs, tablas temporales indexadas, índices cubrientes y filtros sargables.
-- ☕ Desarrollando APIs REST con Spring Boot (Java) e Hibernate (ORM), complementando los módulos construidos en .NET Core.
-- 🏗️ Aplicando principios SOLID, Clean Code, Clean Architecture, DDD y CQRS, patrones de diseño y arquitecturas monolítica / microservicios / hexagonal / distribuidas (.NET Aspire) según el caso.
-- 🤖 Explorando IA generativa (GenAI) en .NET y desarrollo asistido por IA.
-- 🔄 Integrando sistemas ERP (Siigo) mediante Python y Apache Airflow.
-- 🌱 Aprendiendo y reforzando constantemente: .NET Core, PostgreSQL, testing (TDD, xUnit) y arquitecturas backend modernas.
+- 🔭 **Producto actual:** **CW/Celuweb 2.0 DSD**, plataforma B2B de automatización de fuerza de ventas para empresas de distribución y manufactura en Colombia. Trabajo en los módulos de **fuerza de ventas**, **entregadores** y **autoventa**.
+- 🔌 **Integraciones empresariales:** conexión con ERPs **Siigo, Siesa y SAP** mediante APIs en .NET (REST, GraphQL, SOAP) y procesos **ETL** (Python + Apache Airflow) para la sincronización de pedidos e inventarios.
+- 🧩 **APIs y arquitectura:** diseño de APIs en .NET con **Clean Architecture, DDD y CQRS**, principios **SOLID**, patrones de diseño y microservicios (.NET 8, .NET Aspire); desarrollo de APIs con Spring Boot e Hibernate (ORM).
+- 📊 **Bases de datos:** optimización de consultas en SQL Server (CTEs, tablas temporales indexadas, índices cubrientes, filtros sargables); acceso a datos con Entity Framework, Dapper e Hibernate; PostgreSQL.
+- ✅ **Calidad de software:** pruebas unitarias y TDD con xUnit, Clean Code y contenedores con Docker.
+- 🤖 **IA aplicada al desarrollo:** servidor **MCP propio** (Python + FastMCP) que conecta modelos de IA con documentación técnica (Azure DevOps Wiki) y bases de datos SQL Server de solo lectura; IA generativa (GenAI) en .NET.
+- 🌱 **Formación continua:** más de 170 horas de formación técnica en 2026 en .NET 8, microservicios, DDD, CQRS, TDD, Docker y Dapper.
 - 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información — SENA, Armenia.
 
 ---
@@ -81,10 +80,10 @@ Ingeniero de Desarrollo backend con cerca de 4 años de experiencia diseñando, 
 
 **Ingeniero de Desarrollo** — *Celuweb, Armenia* (Octubre 2022 – Actualidad)
 
-- Desarrollo y mantenimiento de módulos backend de **CW/Celuweb 2.0 DSD**, plataforma B2B multi-tenant.
+- Desarrollo y mantenimiento de módulos backend de **CW/Celuweb 2.0 DSD** (fuerza de ventas, entregadores y autoventa), plataforma B2B multi-tenant, con APIs en **.NET**.
 - Optimización de consultas SQL Server para reportes de alto volumen en múltiples unidades de negocio.
 - Desarrollo de APIs REST con **Spring Boot (Java)** e **Hibernate (ORM)**, aplicando arquitecturas monolítica, de microservicios y hexagonal según el caso.
-- Integraciones de datos con sistemas ERP externos (Siigo) mediante Python y Apache Airflow (DAGs).
+- Integraciones con ERPs externos (**Siigo, Siesa y SAP**) mediante APIs en .NET y procesos **ETL** con Python y Apache Airflow (DAGs).
 - Desarrollo de integraciones vía APIs REST, GraphQL y SOAP, incluyendo procesos de cumplimiento normativo (SAGRILAFT).
 - Configuración de módulos dinámicos de formularios móviles y reglas de negocio por cliente.
 - Diseño y construcción de un servidor MCP propio para acelerar el desarrollo asistido por IA.
